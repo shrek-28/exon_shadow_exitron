@@ -1,0 +1,15 @@
+,species,strand,count
+6,Gibbon,+,438
+7,Gibbon,-,474
+8,Gorilla,+,345
+9,Gorilla,-,341
+10,Human,+,654
+11,Human,-,674
+0,Bonobo,+,408
+1,Bonobo,-,280
+4,Chimpanzee,+,398
+5,Chimpanzee,-,421
+2,Bornean Orangutan,+,375
+3,Bornean Orangutan,-,312
+12,Sumatran Orangutan,+,410
+13,Sumatran Orangutan,-,356
