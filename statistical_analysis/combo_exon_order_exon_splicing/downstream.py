@@ -20,6 +20,9 @@ for file in files:
     print(species)
     print("df:", len(df))
     
+    df = df[df['downstream_len_in_scfr'] != 0]
+    print("post-removal:", len(df))
+
     n_total = len(df)
 
     # rank transform
