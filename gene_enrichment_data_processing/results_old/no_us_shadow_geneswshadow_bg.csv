@@ -1,0 +1,21 @@
+bonobo,borangutan,chimpanzee,gibbon,gorilla,human,sorangutan
+ECM-receptor interaction,ABC transporters,ABC transporters,ABC transporters,Gastric acid secretion,ABC transporters,ABC transporters
+ABC transporters,ECM-receptor interaction,ECM-receptor interaction,ECM,ECM-receptor interaction,Starch and sucrose metabolism,ECM-receptor interaction
+Nucleocytoplasmic transport,Aminoacyl-tRNA biosynthesis,Inositol phosphate metabolism,Nucleocytoplasmic transport,Focal adhesion,ECM-receptor interaction,Aminoacyl-tRNA biosynthesis
+Ribosome biogenesis in eukaryotes,Protein digestion and absorption,Aminoacyl-tRNA biosynthesis,Lysine degradation,Protein processing in endoplasmic reticulum,Aminoacyl-tRNA biosynthesis,Inositol phosphate metabolism
+Inositol phosphate metabolism,Nucleocytoplasmic transport,Fanconi anemia pathway,Inositol phosphate metabolism,Nucleocytoplasmic transport,Lysine degradation,Nucleocytoplasmic transport
+Protein digestion and absorption,Inositol phosphate metabolism,Phosphatidylinositol signaling system,Phosphatidylinositol signaling system,Aldosterone synthesis and secretion,Inositol phosphate metabolism,Ribosome biogenesis in eukaryotes
+Phosphatidylinositol signaling system,Spinocerebellar ataxia,Nucleocytoplasmic transport,Cell cycle,Glutamatergic synapse,Nucleocytoplasmic transport,Cell cycle
+Cell cycle,Ribosome biogenesis in eukaryotes,Lysine degradation,mRNA surveillance pathway,Glucagon signaling pathway,Phosphatidylinositol signaling system,Phosphatidylinositol signaling system
+Purine metabolism,Purine metabolism,Purine metabolism,Polycomb repressive complex,Herpes simplex virus 1 infection,Focal adhesion,Protein digestion and absorption
+Spliceosome,Cell cycle,Focal adhesion,Purine metabolism,JAK-STAT signaling pathway,Cell cycle,Spinocerebellar ataxia
+Glucagon signaling pathway,Aldosterone synthesis and secretion,Protein digestion and absorption,Glucagon signaling pathway,Kaposi sarcoma-associated herpesvirus infection,Polycomb repressive complex,Purine metabolism
+Focal adhesion,Phosphatidylinositol signaling system,Cell cycle,Spinocerebellar ataxia,Efferocytosis,Purine metabolism,Cytoskeleton in muscle cells
+Spinocerebellar ataxia,Choline metabolism in cancer,Cytoskeleton in muscle cells,Focal adhesion,Hepatitis B,Cytoskeleton in muscle cells,Insulin resistance
+Alcoholic liver disease,Glucagon signaling pathway,T cell receptor signaling pathway,Human papillomavirus infection,Cytoskeleton in muscle cells,Glucagon signaling pathway,Motor proteins
+Human papillomavirus infection,Focal adhesion,Spinocerebellar ataxia,Ubiquitin mediated proteolysis,Thermogenesis,Spinocerebellar ataxia,Focal adhesion
+Hepatitis B,Motor proteins,Motor proteins,Spliceosome,Human papillomavirus infection,Motor proteins,Protein processing in endoplasmic reticulum
+Viral carcinogenesis,Cytoskeleton in muscle cells,Human papillomavirus infection,Cytoskeleton in muscle cells,Motor proteins,Ubiquitin mediated proteolysis,Ubiquitin mediated proteolysis
+Motor proteins,Protein processing in endoplasmic reticulum,Protein processing in endoplasmic reticulum,Motor proteins,,Human papillomavirus infection,Human papillomavirus infection
+Cytoskeleton in muscle cells,Human papillomavirus infection,PI3K-Akt signaling pathway,Protein processing in endoplasmic reticulum,,PI3K-Akt signaling pathway,PI3K-Akt signaling pathway
+Metabolic pathways,Metabolic pathways,Metabolic pathways,Metabolic pathways,,Metabolic pathways,Metabolic pathways

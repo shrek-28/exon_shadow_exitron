@@ -1,0 +1,27 @@
+property,n_species,species
+Motor proteins,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Arrhythmogenic right ventricular cardiomyopathy,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Hypertrophic cardiomyopathy,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Adherens junction,4,bonobo; borangutan; chimpanzee; human
+mRNA surveillance pathway,2,bonobo; chimpanzee
+Focal adhesion,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Cytoskeleton in muscle cells,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+MAPK signaling pathway,2,bonobo; human
+Human papillomavirus infection,5,bonobo; borangutan; chimpanzee; gibbon; sorangutan
+Dilated cardiomyopathy,3,borangutan; chimpanzee; sorangutan
+Inositol phosphate metabolism,1,borangutan
+ECM-receptor interaction,3,borangutan; chimpanzee; human
+Platelet activation,1,borangutan
+Phosphatidylinositol signaling system,1,borangutan
+Yersinia infection,1,borangutan
+Oxytocin signaling pathway,1,borangutan
+Axon guidance,3,borangutan; gibbon; sorangutan
+Proteoglycans in cancer,2,borangutan; sorangutan
+ECM,1,gibbon
+Protein digestion and absorption,2,gibbon; human
+Nucleocytoplasmic transport,1,gibbon
+Reg. of actin cytoskeleton,2,gibbon; human
+Small cell lung cancer,1,human
+Cushing syndrome,1,human
+Aldosterone synthesis and secretion,1,human
+Renin secretion,1,sorangutan

@@ -1,0 +1,18 @@
+property,n_species,species
+Oxidative phosphorylation,4,bonobo; borangutan; gorilla; sorangutan
+Retrograde endocannabinoid signaling,2,bonobo; gorilla
+Chemical carcinogenesis-reactive oxygen species,3,bonobo; borangutan; gorilla
+Thermogenesis,4,bonobo; borangutan; gorilla; sorangutan
+Diabetic cardiomyopathy,3,bonobo; borangutan; gorilla
+Amyotrophic lateral sclerosis,4,bonobo; borangutan; gorilla; sorangutan
+Huntington disease,4,bonobo; borangutan; gorilla; sorangutan
+Parkinson disease,3,bonobo; borangutan; gorilla
+Alzheimer disease,3,bonobo; borangutan; gorilla
+Pathways of neurodegeneration-multiple diseases,3,bonobo; borangutan; gorilla
+Olfactory transduction,3,chimpanzee; gorilla; human
+Prion disease,2,borangutan; gorilla
+Cardiac muscle contraction,1,gorilla
+Metabolic pathways,1,gorilla
+Glutathione metabolism,1,human
+Selenocompound metabolism,1,human
+Thyroid hormone synthesis,1,human

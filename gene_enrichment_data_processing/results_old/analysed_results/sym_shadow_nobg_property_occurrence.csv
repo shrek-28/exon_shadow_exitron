@@ -1,0 +1,41 @@
+property,n_species,species
+Arrhythmogenic right ventricular cardiomyopathy,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Motor proteins,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Hypertrophic cardiomyopathy,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+ECM-receptor interaction,5,bonobo; borangutan; chimpanzee; human; sorangutan
+Focal adhesion,7,bonobo; borangutan; chimpanzee; gibbon; gorilla; human; sorangutan
+Adherens junction,5,bonobo; borangutan; chimpanzee; human; sorangutan
+Cytoskeleton in muscle cells,7,bonobo; borangutan; chimpanzee; gibbon; gorilla; human; sorangutan
+mRNA surveillance pathway,2,bonobo; chimpanzee
+Dilated cardiomyopathy,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Oxytocin signaling pathway,4,bonobo; borangutan; chimpanzee; sorangutan
+MAPK signaling pathway,4,bonobo; chimpanzee; gibbon; human
+Phospholipase D signaling pathway,1,bonobo
+Axon guidance,4,bonobo; borangutan; gibbon; sorangutan
+Proteoglycans in cancer,5,bonobo; borangutan; chimpanzee; gibbon; sorangutan
+Calcium signaling pathway,2,bonobo; human
+Human papillomavirus infection,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Reg. of actin cytoskeleton,5,bonobo; borangutan; chimpanzee; gibbon; human
+PI3K-Akt signaling pathway,3,bonobo; chimpanzee; human
+Pathways in cancer,5,bonobo; borangutan; chimpanzee; human; sorangutan
+Metabolic pathways,3,bonobo; chimpanzee; human
+Inositol phosphate metabolism,3,borangutan; gibbon; sorangutan
+Platelet activation,2,borangutan; sorangutan
+Phosphatidylinositol signaling system,3,borangutan; human; sorangutan
+Yersinia infection,1,borangutan
+Insulin resistance,2,borangutan; gibbon
+Apelin signaling pathway,1,borangutan
+Aldosterone synthesis and secretion,2,chimpanzee; human
+Cushing syndrome,2,chimpanzee; human
+Efferocytosis,1,chimpanzee
+ECM,1,gibbon
+Protein digestion and absorption,2,gibbon; human
+Small cell lung cancer,2,gibbon; human
+AGE,1,gibbon
+Amoebiasis,1,gibbon
+Nucleocytoplasmic transport,1,gibbon
+PI3K,1,gibbon
+Renin secretion,1,sorangutan
+Circadian entrainment,1,sorangutan
+HIF-1 signaling pathway,1,sorangutan
+Vascular smooth muscle contraction,1,sorangutan

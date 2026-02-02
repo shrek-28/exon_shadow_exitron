@@ -1,0 +1,42 @@
+property,n_species,species
+ECM-receptor interaction,6,bonobo; borangutan; chimpanzee; gorilla; human; sorangutan
+ABC transporters,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Nucleocytoplasmic transport,7,bonobo; borangutan; chimpanzee; gibbon; gorilla; human; sorangutan
+Ribosome biogenesis in eukaryotes,3,bonobo; borangutan; sorangutan
+Inositol phosphate metabolism,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Protein digestion and absorption,4,bonobo; borangutan; chimpanzee; sorangutan
+Phosphatidylinositol signaling system,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Cell cycle,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Purine metabolism,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Spliceosome,2,bonobo; gibbon
+Glucagon signaling pathway,5,bonobo; borangutan; gibbon; gorilla; human
+Focal adhesion,7,bonobo; borangutan; chimpanzee; gibbon; gorilla; human; sorangutan
+Spinocerebellar ataxia,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Alcoholic liver disease,1,bonobo
+Human papillomavirus infection,7,bonobo; borangutan; chimpanzee; gibbon; gorilla; human; sorangutan
+Hepatitis B,2,bonobo; gorilla
+Viral carcinogenesis,1,bonobo
+Motor proteins,7,bonobo; borangutan; chimpanzee; gibbon; gorilla; human; sorangutan
+Cytoskeleton in muscle cells,7,bonobo; borangutan; chimpanzee; gibbon; gorilla; human; sorangutan
+Metabolic pathways,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Aminoacyl-tRNA biosynthesis,4,borangutan; chimpanzee; human; sorangutan
+Aldosterone synthesis and secretion,2,borangutan; gorilla
+Choline metabolism in cancer,1,borangutan
+Protein processing in endoplasmic reticulum,5,borangutan; chimpanzee; gibbon; gorilla; sorangutan
+Fanconi anemia pathway,1,chimpanzee
+Lysine degradation,3,chimpanzee; gibbon; human
+T cell receptor signaling pathway,1,chimpanzee
+PI3K-Akt signaling pathway,3,chimpanzee; human; sorangutan
+ECM,1,gibbon
+mRNA surveillance pathway,1,gibbon
+Polycomb repressive complex,2,gibbon; human
+Ubiquitin mediated proteolysis,3,gibbon; human; sorangutan
+Gastric acid secretion,1,gorilla
+Glutamatergic synapse,1,gorilla
+Herpes simplex virus 1 infection,1,gorilla
+JAK-STAT signaling pathway,1,gorilla
+Kaposi sarcoma-associated herpesvirus infection,1,gorilla
+Efferocytosis,1,gorilla
+Thermogenesis,1,gorilla
+Starch and sucrose metabolism,1,human
+Insulin resistance,1,sorangutan

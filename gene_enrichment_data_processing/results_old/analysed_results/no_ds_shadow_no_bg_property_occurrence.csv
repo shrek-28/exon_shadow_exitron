@@ -1,0 +1,50 @@
+property,n_species,species
+TNF signaling pathway,4,bonobo; borangutan; chimpanzee; gibbon
+Thyroid hormone signaling pathway,3,bonobo; borangutan; sorangutan
+Insulin resistance,1,bonobo
+cGMP-PKG signaling pathway,3,bonobo; chimpanzee; gorillla
+Relaxin signaling pathway,1,bonobo
+Calcium signaling pathway,7,bonobo; borangutan; chimpanzee; gibbon; gorillla; human; sorangutan
+Axon guidance,2,bonobo; gibbon
+Oxytocin signaling pathway,1,bonobo
+MAPK signaling pathway,7,bonobo; borangutan; chimpanzee; gibbon; gorillla; human; sorangutan
+Efferocytosis,3,bonobo; borangutan; gorillla
+cAMP signaling pathway,6,bonobo; borangutan; chimpanzee; gibbon; gorillla; sorangutan
+Cytoskeleton in muscle cells,7,bonobo; borangutan; chimpanzee; gibbon; gorillla; human; sorangutan
+Neuroactive ligand-receptor interaction,6,bonobo; borangutan; chimpanzee; gorillla; human; sorangutan
+Ras signaling pathway,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Rap1 signaling pathway,4,bonobo; chimpanzee; gibbon; human
+Endocytosis,3,bonobo; gibbon; gorillla
+Human papillomavirus infection,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+PI3K-Akt signaling pathway,5,bonobo; borangutan; chimpanzee; human; sorangutan
+Pathways in cancer,7,bonobo; borangutan; chimpanzee; gibbon; gorillla; human; sorangutan
+Metabolic pathways,6,bonobo; chimpanzee; gibbon; gorillla; human; sorangutan
+AMPK signaling pathway,3,borangutan; gibbon; sorangutan
+Breast cancer,3,borangutan; gibbon; sorangutan
+mTOR signaling pathway,2,borangutan; sorangutan
+Wnt signaling pathway,3,borangutan; gibbon; sorangutan
+Insulin signaling pathway,2,borangutan; sorangutan
+Adrenergic signaling in cardiomyocytes,3,borangutan; chimpanzee; sorangutan
+Proteoglycans in cancer,1,borangutan
+Hormone signaling,3,borangutan; gorillla; human
+Biosynthesis of cofactors,3,chimpanzee; human; sorangutan
+Human cytomegalovirus infection,2,chimpanzee; human
+Kaposi sarcoma-associated herpesvirus infection,2,chimpanzee; human
+Coronavirus disease-COVID-19,1,chimpanzee
+Pathways of neurodegeneration-multiple diseases,2,chimpanzee; human
+Alzheimer disease,1,chimpanzee
+Hippo signaling pathway,1,gibbon
+PI3K,1,gibbon
+Focal adhesion,1,gibbon
+Reg. of actin cytoskeleton,2,gibbon; gorillla
+Pathways of neurodegeneration,1,gibbon
+Glycerophospholipid metabolism,1,gorillla
+Parathyroid hormone synthesis secretion and action,1,gorillla
+Carbon metabolism,1,gorillla
+Yersinia infection,1,gorillla
+Chemokine signaling pathway,2,gorillla; human
+Cytokine-cytokine receptor interaction,2,human; sorangutan
+Lipid and atherosclerosis,1,human
+Human immunodeficiency virus 1 infection,1,human
+Neutrophil extracellular trap formation,1,human
+Transcriptional misregulation in cancer,1,sorangutan

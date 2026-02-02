@@ -1,0 +1,41 @@
+property,n_species,species
+ECM-receptor interaction,6,bonobo; borangutan; chimpanzee; gorillla; human; sorangutan
+Inositol phosphate metabolism,5,bonobo; borangutan; chimpanzee; human; sorangutan
+Phosphatidylinositol signaling system,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Glucagon signaling pathway,4,bonobo; borangutan; gibbon; sorangutan
+Cell cycle,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Nucleocytoplasmic transport,7,bonobo; borangutan; chimpanzee; gibbon; gorillla; human; sorangutan
+Spinocerebellar ataxia,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Purine metabolism,6,bonobo; borangutan; chimpanzee; gibbon; human; sorangutan
+Insulin resistance,4,bonobo; borangutan; gibbon; sorangutan
+Focal adhesion,7,bonobo; borangutan; chimpanzee; gibbon; gorillla; human; sorangutan
+Cytoskeleton in muscle cells,7,bonobo; borangutan; chimpanzee; gibbon; gorillla; human; sorangutan
+Human papillomavirus infection,7,bonobo; borangutan; chimpanzee; gibbon; gorillla; human; sorangutan
+cGMP-PKG signaling pathway,1,bonobo
+Protein processing in endoplasmic reticulum,7,bonobo; borangutan; chimpanzee; gibbon; gorillla; human; sorangutan
+Motor proteins,5,bonobo; borangutan; chimpanzee; human; sorangutan
+Reg. of actin cytoskeleton,5,bonobo; chimpanzee; gibbon; gorillla; human
+MAPK signaling pathway,2,bonobo; chimpanzee
+PI3K-Akt signaling pathway,6,bonobo; borangutan; chimpanzee; gorillla; human; sorangutan
+Pathways in cancer,5,bonobo; chimpanzee; gibbon; gorillla; human
+Metabolic pathways,7,bonobo; borangutan; chimpanzee; gibbon; gorillla; human; sorangutan
+Aminoacyl-tRNA biosynthesis,2,borangutan; sorangutan
+Choline metabolism in cancer,1,borangutan
+Ubiquitin mediated proteolysis,4,borangutan; gibbon; human; sorangutan
+Endocytosis,3,borangutan; gibbon; sorangutan
+Protein digestion and absorption,1,chimpanzee
+T cell receptor signaling pathway,1,chimpanzee
+Hepatitis B,4,chimpanzee; gibbon; gorillla; human
+ECM,1,gibbon
+AMPK signaling pathway,2,gibbon; gorillla
+PI3K,1,gibbon
+RNA degradation,1,gorillla
+Carbon metabolism,1,gorillla
+Efferocytosis,1,gorillla
+Glutamatergic synapse,1,gorillla
+Growth hormone synthesis secretion and action,1,gorillla
+JAK-STAT signaling pathway,1,gorillla
+Human T-cell leukemia virus 1 infection,1,gorillla
+cAMP signaling pathway,1,gorillla
+ABC transporters,2,human; sorangutan
+Lysine degradation,1,human
