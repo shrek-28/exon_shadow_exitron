@@ -93,6 +93,18 @@ p <- p +
             color="red", size=3, vjust=-0.6) + 
   scale_x_discrete(labels = function(x) stringr::str_wrap(x, width = 10))
 
+p <- p +
+  scale_y_continuous(expand = expansion(mult = c(0.05, 0.15)))
+
+p <- p +
+  geom_text(
+    data = stats,
+    aes(x = species, y = Inf, label = paste0("N=", count)),
+    vjust = 1.3,
+    size = 3.5,
+    fontface = "bold"
+  )
+  
 # Dummy legend data
 legend_df <- data.frame(
   statistic = c("Mean", "Median"),

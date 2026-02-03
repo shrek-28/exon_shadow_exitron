@@ -37,7 +37,8 @@ for file in files:
         "orig_mean": intron_vals.mean(),
         "orig_median": intron_vals.median(),
         "orig_min": intron_vals.min(),
-        "orig_max": intron_vals.max()
+        "orig_max": intron_vals.max(),
+        "count": len(intron_vals)
     })
 
 # Create separate dataframes
