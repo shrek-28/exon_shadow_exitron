@@ -94,7 +94,7 @@ p <- p +
   scale_x_discrete(labels = function(x) stringr::str_wrap(x, width = 10))
 
 p <- p +
-  scale_y_continuous(expand = expansion(mult = c(0.05, 0.15)))
+  scale_y_continuous(expand = expansion(mult = c(0.05, 0.1)))
 
 p <- p +
   geom_text(
