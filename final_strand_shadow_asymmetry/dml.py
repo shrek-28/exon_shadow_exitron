@@ -66,6 +66,16 @@ files = [
         r"final_strand_shadow_asymmetry/asymmetry/all_species_strand_up_shadow_positive_count_asymmetry.tsv",
         "Upstream Shadow",
         "count"
+    ), 
+    (
+        r"final_strand_shadow_asymmetry/asymmetry/all_species_strand_exitron_count_asymmetry.tsv",
+        "Exitron Count", 
+        "exitron"
+    ),
+    (
+        r"final_strand_shadow_asymmetry/asymmetry/all_species_strand_exitron_length_asymmetry.tsv",
+        "Exitron Length",
+        "exitron"
     )
     # add more entries if needed
 ]
@@ -91,6 +101,7 @@ species_order = list(species_map.keys())
 count_rows = []
 length_rows = []
 shadow_rows = []
+exitron_rows = []
 
 # --------------------------------------------------
 # PROCESS FILES
@@ -111,6 +122,8 @@ for file_path, dataset_name, mode in files:
         length_rows.append(row)
     elif mode == "shadow":
         shadow_rows.append(row)
+    elif mode == "exitron":
+        exitron_rows.append(row)
     else:
         raise ValueError(f"Invalid mode: {mode}")
 
@@ -120,6 +133,7 @@ for file_path, dataset_name, mode in files:
 df_count = pd.DataFrame(count_rows)
 df_length = pd.DataFrame(length_rows)
 df_shadow = pd.DataFrame(shadow_rows)
+df_exitron = pd.DataFrame(exitron_rows)
 
 # --------------------------------------------------
 # SAVE CSVs
@@ -127,3 +141,4 @@ df_shadow = pd.DataFrame(shadow_rows)
 df_count.to_csv("final_strand_shadow_asymmetry/intermed_data/strand_count_asymmetry_summary.csv", index=False)
 df_length.to_csv("final_strand_shadow_asymmetry/intermed_data/strand_length_asymmetry_summary.csv", index=False)
 df_shadow.to_csv("final_strand_shadow_asymmetry/intermed_data/shadow_asymmetry_summary.csv", index=False)
+df_exitron.to_csv("final_strand_shadow_asymmetry/intermed_data/exitron_asymmetry_summary.csv", index=False)
