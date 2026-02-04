@@ -1,0 +1,407 @@
+property,species,enrichment_quantity,enriched,enrichment_state
+Carbohydrate digestion and absorption,bonobo,0.9939,1,enriched
+Carbohydrate digestion and absorption,human,0.9893,1,enriched
+Carbohydrate digestion and absorption,borangutan,0.0,0,not_enriched
+Carbohydrate digestion and absorption,chimpanzee,0.0,0,not_enriched
+Carbohydrate digestion and absorption,gibbon,0.0,0,not_enriched
+Carbohydrate digestion and absorption,sorangutan,0.0,0,not_enriched
+Carbohydrate digestion and absorption,gorilla,0.0,0,not_enriched
+ECM,bonobo,0.978,1,enriched
+ECM,human,0.9578,1,enriched
+ECM,borangutan,0.8359,1,enriched
+ECM,chimpanzee,0.9119,1,enriched
+ECM,gibbon,1.0443,1,enriched
+ECM,sorangutan,0.8238,1,enriched
+ECM,gorilla,0.0,0,not_enriched
+Cytoskeleton in muscle cells,bonobo,0.8051,1,enriched
+Cytoskeleton in muscle cells,human,0.952,1,enriched
+Cytoskeleton in muscle cells,borangutan,0.9404,1,enriched
+Cytoskeleton in muscle cells,chimpanzee,0.8913,1,enriched
+Cytoskeleton in muscle cells,gibbon,0.8862,1,enriched
+Cytoskeleton in muscle cells,sorangutan,0.9097,1,enriched
+Cytoskeleton in muscle cells,gorilla,0.0,0,not_enriched
+Dilated cardiomyopathy,bonobo,0.7713,1,enriched
+Dilated cardiomyopathy,human,0.7012,1,enriched
+Dilated cardiomyopathy,borangutan,0.6952,1,enriched
+Dilated cardiomyopathy,chimpanzee,0.8088,1,enriched
+Dilated cardiomyopathy,gibbon,0.0,0,not_enriched
+Dilated cardiomyopathy,sorangutan,0.7613,1,enriched
+Dilated cardiomyopathy,gorilla,0.0,0,not_enriched
+Hypertrophic cardiomyopathy,bonobo,0.768,1,enriched
+Hypertrophic cardiomyopathy,human,0.7045,1,enriched
+Hypertrophic cardiomyopathy,borangutan,0.6501,1,enriched
+Hypertrophic cardiomyopathy,chimpanzee,0.8179,1,enriched
+Hypertrophic cardiomyopathy,gibbon,0.0,0,not_enriched
+Hypertrophic cardiomyopathy,sorangutan,0.7209,1,enriched
+Hypertrophic cardiomyopathy,gorilla,0.0,0,not_enriched
+Platelet activation,bonobo,0.7274,1,enriched
+Platelet activation,human,0.7187,1,enriched
+Platelet activation,borangutan,0.677,1,enriched
+Platelet activation,chimpanzee,0.6128,1,enriched
+Platelet activation,gibbon,0.7885,1,enriched
+Platelet activation,sorangutan,0.699,1,enriched
+Platelet activation,gorilla,0.0,0,not_enriched
+Arrhythmogenic right ventricular cardiomyopathy,bonobo,0.7274,1,enriched
+Arrhythmogenic right ventricular cardiomyopathy,human,0.0,0,not_enriched
+Arrhythmogenic right ventricular cardiomyopathy,borangutan,0.0,0,not_enriched
+Arrhythmogenic right ventricular cardiomyopathy,chimpanzee,0.7467,1,enriched
+Arrhythmogenic right ventricular cardiomyopathy,gibbon,0.0,0,not_enriched
+Arrhythmogenic right ventricular cardiomyopathy,sorangutan,0.7323,1,enriched
+Arrhythmogenic right ventricular cardiomyopathy,gorilla,0.0,0,not_enriched
+Insulin signaling pathway,bonobo,0.72,1,enriched
+Insulin signaling pathway,human,0.6739,1,enriched
+Insulin signaling pathway,borangutan,0.0,0,not_enriched
+Insulin signaling pathway,chimpanzee,0.6513,1,enriched
+Insulin signaling pathway,gibbon,0.0,0,not_enriched
+Insulin signaling pathway,sorangutan,0.0,0,not_enriched
+Insulin signaling pathway,gorilla,0.0,0,not_enriched
+Focal adhesion,bonobo,0.7137,1,enriched
+Focal adhesion,human,0.844,1,enriched
+Focal adhesion,borangutan,0.7569,1,enriched
+Focal adhesion,chimpanzee,0.7324,1,enriched
+Focal adhesion,gibbon,0.8042,1,enriched
+Focal adhesion,sorangutan,0.7268,1,enriched
+Focal adhesion,gorilla,0.0,0,not_enriched
+Aldosterone synthesis and secretion,bonobo,0.6927,1,enriched
+Aldosterone synthesis and secretion,human,0.0,0,not_enriched
+Aldosterone synthesis and secretion,borangutan,0.0,0,not_enriched
+Aldosterone synthesis and secretion,chimpanzee,0.0,0,not_enriched
+Aldosterone synthesis and secretion,gibbon,0.0,0,not_enriched
+Aldosterone synthesis and secretion,sorangutan,0.0,0,not_enriched
+Aldosterone synthesis and secretion,gorilla,0.0,0,not_enriched
+Amoebiasis,bonobo,0.6856,1,enriched
+Amoebiasis,human,0.0,0,not_enriched
+Amoebiasis,borangutan,0.0,0,not_enriched
+Amoebiasis,chimpanzee,0.0,0,not_enriched
+Amoebiasis,gibbon,0.6939,1,enriched
+Amoebiasis,sorangutan,0.0,0,not_enriched
+Amoebiasis,gorilla,0.0,0,not_enriched
+Small cell lung cancer,bonobo,0.6777,1,enriched
+Small cell lung cancer,human,0.0,0,not_enriched
+Small cell lung cancer,borangutan,0.636,1,enriched
+Small cell lung cancer,chimpanzee,0.6543,1,enriched
+Small cell lung cancer,gibbon,0.7467,1,enriched
+Small cell lung cancer,sorangutan,0.6686,1,enriched
+Small cell lung cancer,gorilla,0.0,0,not_enriched
+Adrenergic signaling in cardiomyocytes,bonobo,0.6732,1,enriched
+Adrenergic signaling in cardiomyocytes,human,0.7345,1,enriched
+Adrenergic signaling in cardiomyocytes,borangutan,0.62,1,enriched
+Adrenergic signaling in cardiomyocytes,chimpanzee,0.6612,1,enriched
+Adrenergic signaling in cardiomyocytes,gibbon,0.6238,1,enriched
+Adrenergic signaling in cardiomyocytes,sorangutan,0.6365,1,enriched
+Adrenergic signaling in cardiomyocytes,gorilla,0.0,0,not_enriched
+cGMP,bonobo,0.6416,1,enriched
+cGMP,human,0.5907,1,enriched
+cGMP,borangutan,0.0,0,not_enriched
+cGMP,chimpanzee,0.5563,1,enriched
+cGMP,gibbon,0.5405,1,enriched
+cGMP,sorangutan,0.0,0,not_enriched
+cGMP,gorilla,0.0,0,not_enriched
+Motor proteins,bonobo,0.6359,1,enriched
+Motor proteins,human,0.739,1,enriched
+Motor proteins,borangutan,0.751,1,enriched
+Motor proteins,chimpanzee,0.7062,1,enriched
+Motor proteins,gibbon,0.6804,1,enriched
+Motor proteins,sorangutan,0.699,1,enriched
+Motor proteins,gorilla,0.0,0,not_enriched
+Axon guidance,bonobo,0.632,1,enriched
+Axon guidance,human,0.5961,1,enriched
+Axon guidance,borangutan,0.0,0,not_enriched
+Axon guidance,chimpanzee,0.5572,1,enriched
+Axon guidance,gibbon,0.6271,1,enriched
+Axon guidance,sorangutan,0.0,0,not_enriched
+Axon guidance,gorilla,0.0,0,not_enriched
+Relaxin signaling pathway,bonobo,0.5985,1,enriched
+Relaxin signaling pathway,human,0.6608,1,enriched
+Relaxin signaling pathway,borangutan,0.579,1,enriched
+Relaxin signaling pathway,chimpanzee,0.0,0,not_enriched
+Relaxin signaling pathway,gibbon,0.0,0,not_enriched
+Relaxin signaling pathway,sorangutan,0.0,0,not_enriched
+Relaxin signaling pathway,gorilla,0.0,0,not_enriched
+Human papillomavirus infection,bonobo,0.5976,1,enriched
+Human papillomavirus infection,human,0.6186,1,enriched
+Human papillomavirus infection,borangutan,0.512,1,enriched
+Human papillomavirus infection,chimpanzee,0.6446,1,enriched
+Human papillomavirus infection,gibbon,0.5811,1,enriched
+Human papillomavirus infection,sorangutan,0.5166,1,enriched
+Human papillomavirus infection,gorilla,0.0,0,not_enriched
+Calcium signaling pathway,bonobo,0.5195,1,enriched
+Calcium signaling pathway,human,0.0,0,not_enriched
+Calcium signaling pathway,borangutan,0.0,0,not_enriched
+Calcium signaling pathway,chimpanzee,0.5139,1,enriched
+Calcium signaling pathway,gibbon,0.5177,1,enriched
+Calcium signaling pathway,sorangutan,0.0,0,not_enriched
+Calcium signaling pathway,gorilla,0.0,0,not_enriched
+PI3K-Akt signaling pathway,bonobo,0.5023,1,enriched
+PI3K-Akt signaling pathway,human,0.471,1,enriched
+PI3K-Akt signaling pathway,borangutan,0.5073,1,enriched
+PI3K-Akt signaling pathway,chimpanzee,0.4829,1,enriched
+PI3K-Akt signaling pathway,gibbon,0.0,0,not_enriched
+PI3K-Akt signaling pathway,sorangutan,0.5,1,enriched
+PI3K-Akt signaling pathway,gorilla,0.0,0,not_enriched
+GnRH signaling pathway,bonobo,0.0,0,not_enriched
+GnRH signaling pathway,human,0.7581,1,enriched
+GnRH signaling pathway,borangutan,0.713,1,enriched
+GnRH signaling pathway,chimpanzee,0.0,0,not_enriched
+GnRH signaling pathway,gibbon,0.7633,1,enriched
+GnRH signaling pathway,sorangutan,0.7441,1,enriched
+GnRH signaling pathway,gorilla,0.0,0,not_enriched
+Gastric acid secretion,bonobo,0.0,0,not_enriched
+Gastric acid secretion,human,0.0,0,not_enriched
+Gastric acid secretion,borangutan,0.7043,1,enriched
+Gastric acid secretion,chimpanzee,0.6786,1,enriched
+Gastric acid secretion,gibbon,0.0,0,not_enriched
+Gastric acid secretion,sorangutan,0.0,0,not_enriched
+Gastric acid secretion,gorilla,0.0,0,not_enriched
+Endocrine resistance,bonobo,0.0,0,not_enriched
+Endocrine resistance,human,0.0,0,not_enriched
+Endocrine resistance,borangutan,0.657,1,enriched
+Endocrine resistance,chimpanzee,0.0,0,not_enriched
+Endocrine resistance,gibbon,0.0,0,not_enriched
+Endocrine resistance,sorangutan,0.688,1,enriched
+Endocrine resistance,gorilla,0.0,0,not_enriched
+Insulin resistance,bonobo,0.0,0,not_enriched
+Insulin resistance,human,0.0,0,not_enriched
+Insulin resistance,borangutan,0.6562,1,enriched
+Insulin resistance,chimpanzee,0.0,0,not_enriched
+Insulin resistance,gibbon,0.0,0,not_enriched
+Insulin resistance,sorangutan,0.6467,1,enriched
+Insulin resistance,gorilla,0.0,0,not_enriched
+Glucagon signaling pathway,bonobo,0.0,0,not_enriched
+Glucagon signaling pathway,human,0.0,0,not_enriched
+Glucagon signaling pathway,borangutan,0.6197,1,enriched
+Glucagon signaling pathway,chimpanzee,0.0,0,not_enriched
+Glucagon signaling pathway,gibbon,0.0,0,not_enriched
+Glucagon signaling pathway,sorangutan,0.6827,1,enriched
+Glucagon signaling pathway,gorilla,0.0,0,not_enriched
+AMPK signaling pathway,bonobo,0.0,0,not_enriched
+AMPK signaling pathway,human,0.0,0,not_enriched
+AMPK signaling pathway,borangutan,0.59,1,enriched
+AMPK signaling pathway,chimpanzee,0.0,0,not_enriched
+AMPK signaling pathway,gibbon,0.0,0,not_enriched
+AMPK signaling pathway,sorangutan,0.6138,1,enriched
+AMPK signaling pathway,gorilla,0.0,0,not_enriched
+Reg. of actin cytoskeleton,bonobo,0.0,0,not_enriched
+Reg. of actin cytoskeleton,human,0.0,0,not_enriched
+Reg. of actin cytoskeleton,borangutan,0.4833,1,enriched
+Reg. of actin cytoskeleton,chimpanzee,0.0,0,not_enriched
+Reg. of actin cytoskeleton,gibbon,0.5436,1,enriched
+Reg. of actin cytoskeleton,sorangutan,0.0,0,not_enriched
+Reg. of actin cytoskeleton,gorilla,0.0,0,not_enriched
+MAPK signaling pathway,bonobo,0.0,0,not_enriched
+MAPK signaling pathway,human,0.0,0,not_enriched
+MAPK signaling pathway,borangutan,0.4708,1,enriched
+MAPK signaling pathway,chimpanzee,0.0,0,not_enriched
+MAPK signaling pathway,gibbon,0.0,0,not_enriched
+MAPK signaling pathway,sorangutan,0.4905,1,enriched
+MAPK signaling pathway,gorilla,0.0,0,not_enriched
+Protein digestion and absorption,bonobo,0.0,0,not_enriched
+Protein digestion and absorption,human,0.7148,1,enriched
+Protein digestion and absorption,borangutan,0.0,0,not_enriched
+Protein digestion and absorption,chimpanzee,0.7286,1,enriched
+Protein digestion and absorption,gibbon,0.7835,1,enriched
+Protein digestion and absorption,sorangutan,0.0,0,not_enriched
+Protein digestion and absorption,gorilla,0.0,0,not_enriched
+Osteoclast differentiation,bonobo,0.0,0,not_enriched
+Osteoclast differentiation,human,0.641,1,enriched
+Osteoclast differentiation,borangutan,0.0,0,not_enriched
+Osteoclast differentiation,chimpanzee,0.6198,1,enriched
+Osteoclast differentiation,gibbon,0.0,0,not_enriched
+Osteoclast differentiation,sorangutan,0.0,0,not_enriched
+Osteoclast differentiation,gorilla,0.0,0,not_enriched
+Metabolic pathways,bonobo,0.0,0,not_enriched
+Metabolic pathways,human,0.0,0,not_enriched
+Metabolic pathways,borangutan,0.0,0,not_enriched
+Metabolic pathways,chimpanzee,0.3469,1,enriched
+Metabolic pathways,gibbon,0.3322,1,enriched
+Metabolic pathways,sorangutan,0.0,0,not_enriched
+Metabolic pathways,gorilla,0.0,0,not_enriched
+Pancreatic secretion,bonobo,0.0,0,not_enriched
+Pancreatic secretion,human,0.0,0,not_enriched
+Pancreatic secretion,borangutan,0.0,0,not_enriched
+Pancreatic secretion,chimpanzee,0.0,0,not_enriched
+Pancreatic secretion,gibbon,0.6806,1,enriched
+Pancreatic secretion,sorangutan,0.0,0,not_enriched
+Pancreatic secretion,gorilla,0.0,0,not_enriched
+Growth hormone synthesis secretion and action,bonobo,0.0,0,not_enriched
+Growth hormone synthesis secretion and action,human,0.6458,1,enriched
+Growth hormone synthesis secretion and action,borangutan,0.0,0,not_enriched
+Growth hormone synthesis secretion and action,chimpanzee,0.0,0,not_enriched
+Growth hormone synthesis secretion and action,gibbon,0.6325,1,enriched
+Growth hormone synthesis secretion and action,sorangutan,0.0,0,not_enriched
+Growth hormone synthesis secretion and action,gorilla,0.0,0,not_enriched
+Oxytocin signaling pathway,bonobo,0.0,0,not_enriched
+Oxytocin signaling pathway,human,0.0,0,not_enriched
+Oxytocin signaling pathway,borangutan,0.0,0,not_enriched
+Oxytocin signaling pathway,chimpanzee,0.0,0,not_enriched
+Oxytocin signaling pathway,gibbon,0.5734,1,enriched
+Oxytocin signaling pathway,sorangutan,0.0,0,not_enriched
+Oxytocin signaling pathway,gorilla,0.0,0,not_enriched
+Rap1 signaling pathway,bonobo,0.0,0,not_enriched
+Rap1 signaling pathway,human,0.0,0,not_enriched
+Rap1 signaling pathway,borangutan,0.0,0,not_enriched
+Rap1 signaling pathway,chimpanzee,0.0,0,not_enriched
+Rap1 signaling pathway,gibbon,0.5026,1,enriched
+Rap1 signaling pathway,sorangutan,0.0,0,not_enriched
+Rap1 signaling pathway,gorilla,0.0,0,not_enriched
+"ECM-receptor interaction, and Cell-extracellular matrix interactions",bonobo,0.0,0,not_enriched
+"ECM-receptor interaction, and Cell-extracellular matrix interactions",human,0.0,0,not_enriched
+"ECM-receptor interaction, and Cell-extracellular matrix interactions",borangutan,0.0,0,not_enriched
+"ECM-receptor interaction, and Cell-extracellular matrix interactions",chimpanzee,0.0,0,not_enriched
+"ECM-receptor interaction, and Cell-extracellular matrix interactions",gibbon,0.0,0,not_enriched
+"ECM-receptor interaction, and Cell-extracellular matrix interactions",sorangutan,0.0,0,not_enriched
+"ECM-receptor interaction, and Cell-extracellular matrix interactions",gorilla,1.2282,1,enriched
+Extracellular matrix organization,bonobo,0.0,0,not_enriched
+Extracellular matrix organization,human,0.0,0,not_enriched
+Extracellular matrix organization,borangutan,0.0,0,not_enriched
+Extracellular matrix organization,chimpanzee,0.0,0,not_enriched
+Extracellular matrix organization,gibbon,0.0,0,not_enriched
+Extracellular matrix organization,sorangutan,0.0,0,not_enriched
+Extracellular matrix organization,gorilla,0.6354,1,enriched
+Protein kinase-like domain superfamily,bonobo,0.0,0,not_enriched
+Protein kinase-like domain superfamily,human,0.0,0,not_enriched
+Protein kinase-like domain superfamily,borangutan,0.0,0,not_enriched
+Protein kinase-like domain superfamily,chimpanzee,0.0,0,not_enriched
+Protein kinase-like domain superfamily,gibbon,0.0,0,not_enriched
+Protein kinase-like domain superfamily,sorangutan,0.0,0,not_enriched
+Protein kinase-like domain superfamily,gorilla,0.6245,1,enriched
+Protein kinase domain,bonobo,0.0,0,not_enriched
+Protein kinase domain,human,0.0,0,not_enriched
+Protein kinase domain,borangutan,0.0,0,not_enriched
+Protein kinase domain,chimpanzee,0.0,0,not_enriched
+Protein kinase domain,gibbon,0.0,0,not_enriched
+Protein kinase domain,sorangutan,0.0,0,not_enriched
+Protein kinase domain,gorilla,0.6226,1,enriched
+Protein kinase activity,bonobo,0.0,0,not_enriched
+Protein kinase activity,human,0.0,0,not_enriched
+Protein kinase activity,borangutan,0.0,0,not_enriched
+Protein kinase activity,chimpanzee,0.0,0,not_enriched
+Protein kinase activity,gibbon,0.0,0,not_enriched
+Protein kinase activity,sorangutan,0.0,0,not_enriched
+Protein kinase activity,gorilla,0.5543,1,enriched
+"Phosphotransferase activity, alcohol group as acceptor",bonobo,0.0,0,not_enriched
+"Phosphotransferase activity, alcohol group as acceptor",human,0.0,0,not_enriched
+"Phosphotransferase activity, alcohol group as acceptor",borangutan,0.0,0,not_enriched
+"Phosphotransferase activity, alcohol group as acceptor",chimpanzee,0.0,0,not_enriched
+"Phosphotransferase activity, alcohol group as acceptor",gibbon,0.0,0,not_enriched
+"Phosphotransferase activity, alcohol group as acceptor",sorangutan,0.0,0,not_enriched
+"Phosphotransferase activity, alcohol group as acceptor",gorilla,0.5275,1,enriched
+ATP-binding,bonobo,0.0,0,not_enriched
+ATP-binding,human,0.0,0,not_enriched
+ATP-binding,borangutan,0.0,0,not_enriched
+ATP-binding,chimpanzee,0.0,0,not_enriched
+ATP-binding,gibbon,0.0,0,not_enriched
+ATP-binding,sorangutan,0.0,0,not_enriched
+ATP-binding,gorilla,0.5198,1,enriched
+Kinase activity,bonobo,0.0,0,not_enriched
+Kinase activity,human,0.0,0,not_enriched
+Kinase activity,borangutan,0.0,0,not_enriched
+Kinase activity,chimpanzee,0.0,0,not_enriched
+Kinase activity,gibbon,0.0,0,not_enriched
+Kinase activity,sorangutan,0.0,0,not_enriched
+Kinase activity,gorilla,0.4891,1,enriched
+"Transferase activity, transferring phosphorus-containing groups",bonobo,0.0,0,not_enriched
+"Transferase activity, transferring phosphorus-containing groups",human,0.0,0,not_enriched
+"Transferase activity, transferring phosphorus-containing groups",borangutan,0.0,0,not_enriched
+"Transferase activity, transferring phosphorus-containing groups",chimpanzee,0.0,0,not_enriched
+"Transferase activity, transferring phosphorus-containing groups",gibbon,0.0,0,not_enriched
+"Transferase activity, transferring phosphorus-containing groups",sorangutan,0.0,0,not_enriched
+"Transferase activity, transferring phosphorus-containing groups",gorilla,0.4604,1,enriched
+Phosphorylation,bonobo,0.0,0,not_enriched
+Phosphorylation,human,0.0,0,not_enriched
+Phosphorylation,borangutan,0.0,0,not_enriched
+Phosphorylation,chimpanzee,0.0,0,not_enriched
+Phosphorylation,gibbon,0.0,0,not_enriched
+Phosphorylation,sorangutan,0.0,0,not_enriched
+Phosphorylation,gorilla,0.4482,1,enriched
+ATP binding,bonobo,0.0,0,not_enriched
+ATP binding,human,0.0,0,not_enriched
+ATP binding,borangutan,0.0,0,not_enriched
+ATP binding,chimpanzee,0.0,0,not_enriched
+ATP binding,gibbon,0.0,0,not_enriched
+ATP binding,sorangutan,0.0,0,not_enriched
+ATP binding,gorilla,0.418,1,enriched
+Adenyl ribonucleotide binding,bonobo,0.0,0,not_enriched
+Adenyl ribonucleotide binding,human,0.0,0,not_enriched
+Adenyl ribonucleotide binding,borangutan,0.0,0,not_enriched
+Adenyl ribonucleotide binding,chimpanzee,0.0,0,not_enriched
+Adenyl ribonucleotide binding,gibbon,0.0,0,not_enriched
+Adenyl ribonucleotide binding,sorangutan,0.0,0,not_enriched
+Adenyl ribonucleotide binding,gorilla,0.4105,1,enriched
+Adenyl nucleotide binding,bonobo,0.0,0,not_enriched
+Adenyl nucleotide binding,human,0.0,0,not_enriched
+Adenyl nucleotide binding,borangutan,0.0,0,not_enriched
+Adenyl nucleotide binding,chimpanzee,0.0,0,not_enriched
+Adenyl nucleotide binding,gibbon,0.0,0,not_enriched
+Adenyl nucleotide binding,sorangutan,0.0,0,not_enriched
+Adenyl nucleotide binding,gorilla,0.4073,1,enriched
+Anatomical structure morphogenesis,bonobo,0.0,0,not_enriched
+Anatomical structure morphogenesis,human,0.0,0,not_enriched
+Anatomical structure morphogenesis,borangutan,0.0,0,not_enriched
+Anatomical structure morphogenesis,chimpanzee,0.0,0,not_enriched
+Anatomical structure morphogenesis,gibbon,0.0,0,not_enriched
+Anatomical structure morphogenesis,sorangutan,0.0,0,not_enriched
+Anatomical structure morphogenesis,gorilla,0.3845,1,enriched
+Nucleotide binding,bonobo,0.0,0,not_enriched
+Nucleotide binding,human,0.0,0,not_enriched
+Nucleotide binding,borangutan,0.0,0,not_enriched
+Nucleotide binding,chimpanzee,0.0,0,not_enriched
+Nucleotide binding,gibbon,0.0,0,not_enriched
+Nucleotide binding,sorangutan,0.0,0,not_enriched
+Nucleotide binding,gorilla,0.3658,1,enriched
+Nucleoside phosphate binding,bonobo,0.0,0,not_enriched
+Nucleoside phosphate binding,human,0.0,0,not_enriched
+Nucleoside phosphate binding,borangutan,0.0,0,not_enriched
+Nucleoside phosphate binding,chimpanzee,0.0,0,not_enriched
+Nucleoside phosphate binding,gibbon,0.0,0,not_enriched
+Nucleoside phosphate binding,sorangutan,0.0,0,not_enriched
+Nucleoside phosphate binding,gorilla,0.3655,1,enriched
+Reg. of cellular component organization,bonobo,0.0,0,not_enriched
+Reg. of cellular component organization,human,0.0,0,not_enriched
+Reg. of cellular component organization,borangutan,0.0,0,not_enriched
+Reg. of cellular component organization,chimpanzee,0.0,0,not_enriched
+Reg. of cellular component organization,gibbon,0.0,0,not_enriched
+Reg. of cellular component organization,sorangutan,0.0,0,not_enriched
+Reg. of cellular component organization,gorilla,0.3653,1,enriched
+Small molecule binding,bonobo,0.0,0,not_enriched
+Small molecule binding,human,0.0,0,not_enriched
+Small molecule binding,borangutan,0.0,0,not_enriched
+Small molecule binding,chimpanzee,0.0,0,not_enriched
+Small molecule binding,gibbon,0.0,0,not_enriched
+Small molecule binding,sorangutan,0.0,0,not_enriched
+Small molecule binding,gorilla,0.3615,1,enriched
+Anion binding,bonobo,0.0,0,not_enriched
+Anion binding,human,0.0,0,not_enriched
+Anion binding,borangutan,0.0,0,not_enriched
+Anion binding,chimpanzee,0.0,0,not_enriched
+Anion binding,gibbon,0.0,0,not_enriched
+Anion binding,sorangutan,0.0,0,not_enriched
+Anion binding,gorilla,0.3607,1,enriched
+Coiled coil,bonobo,0.0,0,not_enriched
+Coiled coil,human,0.0,0,not_enriched
+Coiled coil,borangutan,0.0,0,not_enriched
+Coiled coil,chimpanzee,0.0,0,not_enriched
+Coiled coil,gibbon,0.0,0,not_enriched
+Coiled coil,sorangutan,0.0,0,not_enriched
+Coiled coil,gorilla,0.3345,1,enriched
+Neurotrophin signaling pathway,bonobo,0.0,0,not_enriched
+Neurotrophin signaling pathway,human,0.6512,1,enriched
+Neurotrophin signaling pathway,borangutan,0.0,0,not_enriched
+Neurotrophin signaling pathway,chimpanzee,0.0,0,not_enriched
+Neurotrophin signaling pathway,gibbon,0.0,0,not_enriched
+Neurotrophin signaling pathway,sorangutan,0.0,0,not_enriched
+Neurotrophin signaling pathway,gorilla,0.0,0,not_enriched
+Insulin secretion,bonobo,0.0,0,not_enriched
+Insulin secretion,human,0.0,0,not_enriched
+Insulin secretion,borangutan,0.0,0,not_enriched
+Insulin secretion,chimpanzee,0.0,0,not_enriched
+Insulin secretion,gibbon,0.0,0,not_enriched
+Insulin secretion,sorangutan,0.6865,1,enriched
+Insulin secretion,gorilla,0.0,0,not_enriched
+Glutamatergic synapse,bonobo,0.0,0,not_enriched
+Glutamatergic synapse,human,0.0,0,not_enriched
+Glutamatergic synapse,borangutan,0.0,0,not_enriched
+Glutamatergic synapse,chimpanzee,0.0,0,not_enriched
+Glutamatergic synapse,gibbon,0.0,0,not_enriched
+Glutamatergic synapse,sorangutan,0.607,1,enriched
+Glutamatergic synapse,gorilla,0.0,0,not_enriched
