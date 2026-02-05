@@ -54,6 +54,29 @@ SPECIES_ORDER <- c(
 
 df$Species <- factor(df$Species, levels = SPECIES_ORDER)
 
+totals_df <- df |>
+  select(
+    Species,
+    total_genes,
+    total_tx,
+    total_exons
+  ) |>
+  pivot_longer(
+    -Species,
+    names_to = "Feature",
+    values_to = "Total"
+  ) |>
+  mutate(
+    Feature = recode(
+      Feature,
+      "total_genes"        = "Genes",
+      "total_tx"  = "Transcripts",
+      "total_exons"        = "Exons"
+    ),
+    Feature = factor(Feature, levels = c("Genes", "Transcripts", "Exons")),
+    y = 115   # fixed position ABOVE with-shadow %
+  )
+
 # -------------------------
 # 4. Reshape data
 # -------------------------
@@ -65,6 +88,17 @@ p <- ggplot(
   aes(x = Feature, y = Percentage, fill = Shadow)
 ) +
   geom_col(width = 0.7) +
+  geom_text(
+    data = totals_df,
+    aes(
+      x = Feature,
+      y = y,
+      label = scales::comma(Total)
+    ),
+    inherit.aes = FALSE,
+    size = 3,
+    fontface = "bold"
+  )+ 
   
   # ---- WITHOUT shadow: below bar
   geom_text(
@@ -94,7 +128,7 @@ p <- ggplot(
   ) +
   
   scale_y_continuous(
-    limits = c(-8, 108),
+    limits = c(-8, 120),
     breaks = c(0, 25, 50, 75, 100),
     expand = c(0, 0)
   ) +
@@ -119,5 +153,5 @@ p <- ggplot(
     plot.title = element_text(hjust=0, face="bold")
   )
 
-
 print(p)
+ggsave(OUTPUT_FILE, plot=p, width=14, height=6, dpi=300)
