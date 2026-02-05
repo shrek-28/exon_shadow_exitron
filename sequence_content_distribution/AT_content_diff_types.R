@@ -107,7 +107,7 @@ p <- ggplot(df, aes(x = xpos, group = interaction(species, seq_type), fill = seq
   
   # Labels
   geom_text(aes(y = .data$median, label = round(.data$median, 1)),
-            color = "darkgreen", vjust = 1.5, size = 2.4) +
+            color = "darkgreen", vjust = 1.2, size = 2.4) +
   geom_text(aes(y = .data$mean, label = round(.data$mean, 1)),
             color = "blue", vjust = -0.7, size = 2.4) +
   geom_text(aes(y = .data$min, label = round(.data$min, 1)),
