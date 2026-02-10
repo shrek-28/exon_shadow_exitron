@@ -26,7 +26,7 @@ if (interactive()) {
 df <- read.delim(INPUT_FILE, stringsAsFactors = FALSE)
 
 # -------------------------
-# 3. Species naming (single controlled path)
+# 3. Species naming
 # -------------------------
 species_map <- c(
   "gibbon"      = "Gibbon",
@@ -46,23 +46,17 @@ SPECIES_ORDER <- unname(species_map)
 df$Species <- factor(df$Species, levels = SPECIES_ORDER)
 
 # -------------------------
-# 4. Shadow type renaming (authoritative)
+# 4. Shadow type renaming
 # -------------------------
 shadow_map <- c(
-  pc_only_up              = "Only Upstream",
-  pc_only_down            = "Only Downstream",
-  pc_both_shadow          = "Both Shadows",
-  pc_shadow_with_exitron  = "With Exitron",
+  pc_only_up               = "Only Upstream",
+  pc_only_down             = "Only Downstream",
+  pc_both_shadow           = "Both Shadows",
+  pc_shadow_with_exitron   = "With Exitron",
   pc_shadow_without_exitron = "Without Exitron"
 )
 
-shadow_levels <- c(
-  "Only Upstream",
-  "Only Downstream",
-  "Both Shadows",
-  "With Exitron",
-  "Without Exitron"
-)
+shadow_levels <- unname(shadow_map)
 
 # -------------------------
 # 5. Build plot dataframe
@@ -77,12 +71,13 @@ plot_df <- df %>%
   mutate(
     ShadowType = recode(Raw, !!!shadow_map),
     ShadowType = factor(ShadowType, levels = shadow_levels),
+    
     Bar = if_else(
       ShadowType %in% c("Only Upstream","Only Downstream","Both Shadows"),
-      "Total",
-      "Paired"
+      "Symmetry",
+      "Exitron"
     ),
-    Bar = factor(Bar, levels = c("Total","Paired"))
+    Bar = factor(Bar, levels = c("Symmetry","Exitron"))
   )
 
 # -------------------------
@@ -91,8 +86,8 @@ plot_df <- df %>%
 totals_df <- df %>%
   transmute(
     Species,
-    Total  = total_shadows,
-    Paired = both_shadow
+    Symmetry = total_shadows,
+    Exitron  = both_shadow
   ) %>%
   pivot_longer(
     -Species,
@@ -100,13 +95,12 @@ totals_df <- df %>%
     values_to = "Total"
   ) %>%
   mutate(
-    Bar = factor(Bar, levels = c("Total","Paired")),
+    Bar = factor(Bar, levels = c("Symmetry","Exitron")),
     y = 110
   )
 
-
 # -------------------------
-# 7. Manual color scale (EXACT MATCH)
+# 7. Manual color scale
 # -------------------------
 shadow_colors <- c(
   "Only Upstream"   = "#1b9e77",
@@ -175,4 +169,4 @@ p <- ggplot(plot_df, aes(x = Bar, y = Percentage, fill = ShadowType)) +
 
 print(p)
 
-ggsave(OUTPUT_FILE, plot=p, width=12, height=5, dpi=300)
+ggsave(OUTPUT_FILE, plot = p, width = 12, height = 5, dpi = 300)
